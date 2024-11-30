@@ -1,8 +1,34 @@
-# React + Vite
+# Odin Shopping Cart 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Odin Shopping Cart**, a minimalist e-commerce web application. This project was built as part of [The Odin Project](https://www.theodinproject.com/) curriculum and demonstrates core front-end development skills.
 
-Currently, two official plugins are available:
+[See live demo here](https://timely-shortbread-b0f874.netlify.app/) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Product Listing**: Browse through a selection of items with images, names, and prices.
+- **Shopping Cart**: Add, update, and remove items with a real-time total price calculation.
+- **Checkout**: A simple checkout interface for completing orders.
+
+## Tech Stack
+
+- **JavaScript**
+- **React**
+- **CSS**
+
+## Installation & Setup
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/odin-Shopping-Cart.git
+   cd odin-Shopping-Cart
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the session:
+   ```bash
+   npm run dev
+4. Open your browser and navigate to: http://localhost:5174
+
